@@ -1,0 +1,9 @@
+When adding to this repository, please fulfill the following guidelines to ensure that this remains organized properly.
+
+1. Make sure that your file is committed under the correct folder. There are very few cases where the file should remain in the main branch outside of a folder. Existing folders have subfolders. For instance, all student talks and related documents under the same project are grouped in a subfolder under 'undergraduate_talks'.
+
+2. Files should be uploaded as pdfs when possible. This is so that they can be viewed without having to download them. File types in a folder that are docs or ppt should all be placed in a 'downloadables' subfolder.
+
+3. Ensure that your name is on files that you upload. In code scripts, it can be a comment. If your name is not in the body of the file, add your initials in capital letters to the file name.
+
+4. If your work does not fit within an existing folder category, make new folders or subfolders that can house it. Folder naming conventions should be clear and in all lowercase letters.
