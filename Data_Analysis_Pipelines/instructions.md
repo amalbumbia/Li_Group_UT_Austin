@@ -1,0 +1,1 @@
+There are notebooks here with generalized code for each instrument that this group typically uses. These scripts were generated based on toy data that was given to me, so there is an ``examples" folder that will show you how to use the scripts with the toy data.
