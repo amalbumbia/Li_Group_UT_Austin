@@ -1,1 +1,3 @@
-There are notebooks here with generalized code for each instrument that this group typically uses. These scripts were generated based on toy data that was given to me, so there is an ``examples" folder that will show you how to use the scripts with the toy data.
+There are notebooks here with generalized code for each instrument that this group typically uses. These scripts were generated based on toy data that was given to me, so there is an ``examples" folder that will show you how the components of these scripts work with toy data. 
+
+I will make a properly documented webpage to walk you through how to use each pipeline, but they should be relatively self explanatory.
