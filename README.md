@@ -1,4 +1,4 @@
-# Elaine Li Quantum Optics Group @ The University of Texas at Austin
+# Elaine Li NanoLight Group @ The University of Texas at Austin
 
 This repository is an organizational hub for members of Elaine Li's group at UT Austin. 
 
