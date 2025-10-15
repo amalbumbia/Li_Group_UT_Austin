@@ -1,6 +1,6 @@
 # Elaine Li NanoLight Group @ The University of Texas at Austin
 
-This repository is an organizational hub for members of Elaine Li's group at UT Austin. For more information [here](https://linanolight.org/) is the group website.
+This repository is an organizational hub for members of Elaine Li's group at UT Austin. For more information, [here](https://linanolight.org/) is the group website.
 
 Data and additional project specific files are stored in the UTBOX which members should have access to.
 
